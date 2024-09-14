@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1701801483 source:/home/alhasan/Documents/os/main.c
+	<pthread.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<sys/wait.h>
+	<sys/types.h>
+	<errno.h>
+	<time.h>
+
